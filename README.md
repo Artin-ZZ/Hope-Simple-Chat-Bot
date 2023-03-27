@@ -21,7 +21,7 @@ A Very Simple Chat Bot Using PyQt5 &amp; Sqlite3 &amp; Pure Python
         *.Step Three:
                 Enjoy Talking To The Bot :)
        
-        *Note : this app only has a limited list of speaches & commands.
+        *Note : this app only has a limited list of speaches & commands , Also The Speach Button Feture Is Still Not Active.
 
 # Credits :<br>
 *.Full Name : Artin Zafari<br>
