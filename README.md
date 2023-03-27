@@ -5,4 +5,6 @@
 
 
 # Reqs :
-    
+        pip install PyQt5
+        
+        *NOTE : sqlite3 is a built in python library you dont have to install it*
