@@ -23,7 +23,7 @@ A Very Simple Chat Bot Using PyQt5 &amp; Sqlite3 &amp; Pure Python
        
         *Note : this app only has a limited list of speaches & commands.
 
-# Credits :<br><hr>
+# Credits :<br>
 *.Full Name : Artin Zafari<br>
 *.Email : artinzafari@gmail.com<br>
 *.telegram_id : @art_zz0
