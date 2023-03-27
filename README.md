@@ -17,7 +17,7 @@ A Very Simple Chat Bot Using PyQt5 &amp; Sqlite3 &amp; Pure Python
         *.Setp One:
                 Install All Dependencies
         *.Step Two:
-                Run Chat-Bot.py & Create a User Name Password And Then Login<br>
+                Run Chat-Bot.py & Create a User Name And a Password And Then Login<br>
         *.Step Three:
                 Enjoy Talking To The Bot :)
        
